@@ -1,1 +1,9 @@
-
+#Please cite this code if you find it useful in your research.
+@article{taleghani2019admm,
+  title={An ADMM-Factorization Algorithm for Low Rank Matrix Completion.},
+  author={Taleghani, Rahman and Salahi, Maziar},
+  journal={Applications \& Applied Mathematics},
+  volume={14},
+  number={2},
+  year={2019}
+}
